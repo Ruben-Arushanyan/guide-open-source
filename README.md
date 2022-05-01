@@ -1,11 +1,23 @@
 # Guide Open Source
 
-## Step *
+[license]: /guides/license/
 
-Create a app:
+## Local Setup
+
+### Step *
+
+Git init:
 
 ```bash
 mkdir my-app
 cd my-app
 git init
 ```
+
+### Step *
+
+Create `/LICENSE` file:
+
+go to: [License Guide][license]
+
+## Github Setup
