@@ -1,7 +1,7 @@
 # Guide Open Source
 
 [license]: /guides/license/
-[license]: /guides/authors/
+[authors]: /guides/authors/
 
 ## Local Setup
 
@@ -20,7 +20,5 @@ git init
 go to: [License Guide][license]
 
 ### Step *
-
-Create `/AUTHORS` file:
 
 go to: [Authors Guide][authors]
