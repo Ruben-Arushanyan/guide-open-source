@@ -1,6 +1,6 @@
 # Authors
 
-[authors]: AUTHORS 'Authors'
+[authors]: AUTHORS
 
 ### Step *
 
@@ -9,6 +9,6 @@ Create `/AUTHORS` file
 ### Step *
 Copy [AUTHORS][authors] to `/AUTHORS`
 
-### Step *
+### Step
 
 Revise: `/AUTHORS` file

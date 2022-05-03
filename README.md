@@ -2,6 +2,7 @@
 
 [license]: /guides/license/
 [authors]: /guides/authors/
+[gitignore]: /guides/gitignore/
 
 ## Local Setup
 
@@ -14,6 +15,10 @@ mkdir my-app
 cd my-app
 git init
 ```
+
+### Step *
+
+go to: [Gitignore Guide][gitignore]
 
 ### Step *
 
