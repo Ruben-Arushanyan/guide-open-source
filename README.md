@@ -20,4 +20,3 @@ Create `/LICENSE` file:
 
 go to: [License Guide][license]
 
-## Github Setup
