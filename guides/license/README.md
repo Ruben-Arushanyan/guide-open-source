@@ -4,6 +4,13 @@
 
 ## MIT License
 
-go to: [MIT][mit]
+### Step *
 
-Set **Copyright** section.
+Create `/LICENSE` file
+
+### Step *
+Copy [MIT][mit] to `LICENSE`
+
+### Step *
+
+Revise: **Copyright** section in `LICENSE` file
