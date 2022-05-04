@@ -81,3 +81,26 @@ Revise: `/package.json`
     "bugs": "https://github.com/Ruben-Arushanyan/lox-lava/issues"
 }
 ```
+
+### Step *
+
+Revise: `/package.json`
+
+```json
+{
+    "keywords": [
+        "lox",
+        "lava"
+    ]
+}
+```
+
+### Step *
+
+Revise: `/package.json`
+
+```json
+{
+    "author": "Ruben Arushanyan <ruben.arushanyan24@gmail.com> (https://www.linkedin.com/in/ruben-arushanyan-42bba9235/)"
+}
+```
