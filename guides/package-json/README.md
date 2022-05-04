@@ -71,3 +71,13 @@ Revise: `/package.json`
     }
 }
 ```
+
+### Step *
+
+Revise: `/package.json`
+
+```json
+{
+    "bugs": "https://github.com/Ruben-Arushanyan/lox-lava/issues"
+}
+```
