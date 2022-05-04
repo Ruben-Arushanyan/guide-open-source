@@ -114,3 +114,15 @@ Revise: `/package.json`
     "main": "src/index.js"
 }
 ```
+
+### Step
+
+Revise: `/package.json`
+
+```json
+{
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
+```
