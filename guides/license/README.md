@@ -1,6 +1,6 @@
 # Licenses
 
-[mit]: MIT
+[1]: MIT
 
 ## MIT License
 
@@ -9,7 +9,7 @@
 Create `/LICENSE` file
 
 ### Step *
-Copy [MIT][mit] to `LICENSE`
+Copy [MIT][1] to `LICENSE`
 
 ### Step
 

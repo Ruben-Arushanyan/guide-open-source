@@ -1,13 +1,13 @@
 # Npmignore
 
-[npmignore]: npmignore
+[1]: npmignore
 
 ### Step *
 
 Create `/.npmignore` file
 
 ### Step *
-Copy [npmignore][npmignore] to `/.npmignore`
+Copy [npmignore][1] to `/.npmignore`
 
 ### Step
 

@@ -1,13 +1,13 @@
 # Gitignore
 
-[gitignore]: gitignore
+[1]: gitignore
 
 ### Step *
 
 Create `/.gitignore` file
 
 ### Step *
-Copy [gitignore][gitignore] to `/.gitignore`
+Copy [gitignore][1] to `/.gitignore`
 
 ### Step
 

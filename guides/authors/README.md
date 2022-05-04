@@ -1,13 +1,13 @@
 # Authors
 
-[authors]: AUTHORS
+[1]: AUTHORS
 
 ### Step *
 
 Create `/AUTHORS` file
 
 ### Step *
-Copy [AUTHORS][authors] to `/AUTHORS`
+Copy [AUTHORS][1] to `/AUTHORS`
 
 ### Step
 
