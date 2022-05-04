@@ -23,6 +23,14 @@ go to: [Gitignore Guide][gitignore]
 
 ### Step *
 
+Npm init:
+
+```bash
+npm init -y; npm i
+```
+
+### Step *
+
 go to: [License Guide][license]
 
 ### Step *
