@@ -3,6 +3,7 @@
 [license]: /guides/license/
 [authors]: /guides/authors/
 [gitignore]: /guides/gitignore/
+[npmignore]: /guides/npmignore/
 
 ## Local Setup
 
@@ -27,3 +28,7 @@ go to: [License Guide][license]
 ### Step *
 
 go to: [Authors Guide][authors]
+
+### Step *
+
+go to: [Npmignore Guide][npmignore]
