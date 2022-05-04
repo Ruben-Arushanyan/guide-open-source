@@ -4,6 +4,7 @@
 [authors]: /guides/authors/
 [gitignore]: /guides/gitignore/
 [npmignore]: /guides/npmignore/
+[readme]: /guides/readme/
 
 ## Local Setup
 
@@ -26,8 +27,12 @@ go to: [Gitignore Guide][gitignore]
 Npm init:
 
 ```bash
-npm init -y; npm i
+npm init -y
 ```
+
+### Step *
+
+go to: [Npmignore Guide][npmignore]
 
 ### Step *
 
@@ -39,4 +44,4 @@ go to: [Authors Guide][authors]
 
 ### Step *
 
-go to: [Npmignore Guide][npmignore]
+go to: [Readme Guide][readme]
