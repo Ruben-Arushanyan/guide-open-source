@@ -95,12 +95,22 @@ Revise: `/package.json`
 }
 ```
 
-### Step *
+### Step
 
 Revise: `/package.json`
 
 ```json
 {
     "author": "Ruben Arushanyan <ruben.arushanyan24@gmail.com> (https://www.linkedin.com/in/ruben-arushanyan-42bba9235/)"
+}
+```
+
+### Step
+
+Revise: `/package.json`
+
+```json
+{
+    "main": "src/index.js"
 }
 ```
