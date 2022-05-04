@@ -37,6 +37,14 @@ go to: [PackageJson Guide][6]
 
 ### Step *
 
+Init `package-lock.json` if no exists
+
+```bash
+npm i
+```
+
+### Step *
+
 go to: [Npmignore Guide][4]
 
 ### Step *
