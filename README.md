@@ -5,6 +5,7 @@
 [gitignore]: /guides/gitignore/
 [npmignore]: /guides/npmignore/
 [readme]: /guides/readme/
+[package-json]: /guides/package-json/
 
 ## Local Setup
 
@@ -29,6 +30,10 @@ Npm init:
 ```bash
 npm init -y
 ```
+
+### Step *
+
+go to: [PackageJson Guide](package-json)
 
 ### Step *
 
