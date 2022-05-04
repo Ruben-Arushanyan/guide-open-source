@@ -9,6 +9,65 @@ Create `/package.json` file
 ### Step *
 Copy [example][1] to `/package.json`
 
+### Step *
+
+Revise: `/package.json`
+
+```json
+{
+    "name": "lox-lava"
+}
+```
+
 ### Step
 
-Revise: 
+Revise: `/package.json`
+
+```json
+{
+    "version": "1.0.0"
+}
+```
+
+### Step *
+
+Revise: `/package.json`
+
+```json
+{
+    "description": "Psakecin Maroin, tvin choban Karoin"
+}
+```
+
+### Step
+
+Revise: `/package.json`
+
+```json
+{
+    "license": "MIT"
+}
+```
+
+### Step *
+
+Revise: `/package.json`
+
+```json
+{
+    "homepage": "https://lox-lava.js.org"
+}
+```
+
+### Step *
+
+Revise: `/package.json`
+
+```json
+{
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ruben-Arushanyan/lox-lava"
+    }
+}
+```
