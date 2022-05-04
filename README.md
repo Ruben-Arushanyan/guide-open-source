@@ -33,7 +33,7 @@ npm init -y
 
 ### Step *
 
-go to: [PackageJson Guide](package-json)
+go to: [PackageJson Guide][package-json]
 
 ### Step *
 
