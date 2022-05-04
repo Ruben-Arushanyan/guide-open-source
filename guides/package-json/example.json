@@ -1,0 +1,25 @@
+{
+    "name": "lox-lava",
+    "version": "1.0.0",
+    "description": "Psakecin Maroin, tvin choban Karoin",
+    "license": "MIT",
+    "homepage": "https://lox-lava.js.org",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Ruben-Arushanyan/lox-lava"
+    },
+    "bugs": "https://github.com/Ruben-Arushanyan/lox-lava/issues",
+    "keywords": [
+        "lox",
+        "lava"
+    ],
+    "author": "Ruben Arushanyan <ruben.arushanyan24@gmail.com> (https://github.com/ruben-arushanyan)",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "publishConfig": {
+      "registry": "https://registry-url"
+    },
+    "npmName": "redux-cool"
+}
