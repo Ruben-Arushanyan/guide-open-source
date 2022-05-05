@@ -6,6 +6,7 @@
 [4]: /guides/npmignore/
 [5]: /guides/readme/
 [6]: /guides/package-json/
+[7]: /guides/website/
 
 ## Local Setup
 
@@ -54,6 +55,12 @@ go to: [License Guide][1]
 ### Step *
 
 go to: [Authors Guide][2]
+
+### Step
+
+If you need a website
+
+go to: [Website Guide][7]
 
 ### Step *
 
