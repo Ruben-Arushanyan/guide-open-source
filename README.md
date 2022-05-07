@@ -7,6 +7,7 @@
 [5]: /guides/readme/
 [6]: /guides/package-json/
 [7]: /guides/website/
+[8]: /guides/test/
 
 ## Local Setup
 
@@ -55,6 +56,10 @@ go to: [License Guide][1]
 ### Step *
 
 go to: [Authors Guide][2]
+
+### Step *
+
+go to: [Test Guide][8]
 
 ### Step
 
