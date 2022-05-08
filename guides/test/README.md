@@ -1,6 +1,8 @@
 # Test
 
-### Step *
+[1]: test.yml
+
+### Step
 
 Revise: `/package.json`
 
@@ -12,3 +14,16 @@ Revise: `/package.json`
 }
 ```
 
+### Step
+
+Test Workflow for Github Actions
+
+Create  `./github/workflows/test.yml` file
+
+### Step
+
+Copy [example][1] to `./github/workflows/test.yml`
+
+### Step
+
+Revise: `./github/workflows/test.yml`
