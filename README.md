@@ -8,6 +8,7 @@
 [6]: /guides/package-json/
 [7]: /guides/website/
 [8]: /guides/test/
+[9]: /guides/npm-publish/
 
 ## Local Setup
 
@@ -60,6 +61,10 @@ go to: [Authors Guide][2]
 ### Step *
 
 go to: [Test Guide][8]
+
+### Step *
+
+go to: [NPM Publish Guide][9]
 
 ### Step
 
