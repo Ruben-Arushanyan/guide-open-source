@@ -2,12 +2,14 @@
 
 [1]: example.md
 
-### Step *
+### Step
 
 Create `/README.md` file
 
-### Step *
+### Step
+
 Copy [example][1] to `/README.md`
 
-### Step *
+### Step
+
 Revise: `/README.md`

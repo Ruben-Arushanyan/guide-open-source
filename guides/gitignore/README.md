@@ -2,11 +2,12 @@
 
 [1]: gitignore
 
-### Step *
+### Step
 
 Create `/.gitignore` file
 
-### Step *
+### Step
+
 Copy [gitignore][1] to `/.gitignore`
 
 ### Step

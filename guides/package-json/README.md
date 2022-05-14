@@ -2,14 +2,15 @@
 
 [1]: example.json
 
-### Step *
+### Step
 
 Create `/package.json` file
 
-### Step *
+### Step
+
 Copy [example][1] to `/package.json`
 
-### Step *
+### Step
 
 Revise: `/package.json`
 
@@ -29,7 +30,7 @@ Revise: `/package.json`
 }
 ```
 
-### Step *
+### Step
 
 Revise: `/package.json`
 
@@ -49,7 +50,7 @@ Revise: `/package.json`
 }
 ```
 
-### Step *
+### Step
 
 Revise: `/package.json`
 
@@ -59,7 +60,7 @@ Revise: `/package.json`
 }
 ```
 
-### Step *
+### Step
 
 Revise: `/package.json`
 
@@ -72,7 +73,7 @@ Revise: `/package.json`
 }
 ```
 
-### Step *
+### Step
 
 Revise: `/package.json`
 
@@ -82,7 +83,7 @@ Revise: `/package.json`
 }
 ```
 
-### Step *
+### Step
 
 Revise: `/package.json`
 

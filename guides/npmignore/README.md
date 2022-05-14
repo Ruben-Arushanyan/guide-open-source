@@ -2,11 +2,12 @@
 
 [1]: npmignore
 
-### Step *
+### Step
 
 Create `/.npmignore` file
 
-### Step *
+### Step
+
 Copy [npmignore][1] to `/.npmignore`
 
 ### Step

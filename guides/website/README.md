@@ -4,22 +4,22 @@
 [2]: website-test.yml
 [3]: website-deploy.yml
 
-### Step *
+### Step
 
 Create `/website` folder.
 
-### Step *
+### Step
 
 Go to: [Docusaurus Boilerplates][1]
 
 
-### Step *
+### Step
 
 Docusaurus Website Test Workflow for Github Actions
 
 Create  `./github/workflows/website-test.yml` file
 
-### Step *
+### Step
 
 Copy [example][2] to `./github/workflows/website-test.yml`
 
@@ -28,13 +28,13 @@ Copy [example][2] to `./github/workflows/website-test.yml`
 Revise: `./github/workflows/website-test.yml`
 
 
-### Step *
+### Step
 
 Docusaurus Website Deploy Workflow for Github Actions
 
 Create  `./github/workflows/website-deploy.yml` file
 
-### Step *
+### Step
 
 Copy [example][3] to `./github/workflows/website-deploy.yml`
 

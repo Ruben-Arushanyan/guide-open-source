@@ -4,11 +4,12 @@
 
 ## MIT License
 
-### Step *
+### Step
 
 Create `/LICENSE` file
 
-### Step *
+### Step
+
 Copy [MIT][1] to `LICENSE`
 
 ### Step

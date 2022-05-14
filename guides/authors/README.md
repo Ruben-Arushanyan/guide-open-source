@@ -2,11 +2,12 @@
 
 [1]: AUTHORS
 
-### Step *
+### Step
 
 Create `/AUTHORS` file
 
-### Step *
+### Step
+
 Copy [AUTHORS][1] to `/AUTHORS`
 
 ### Step
