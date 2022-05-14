@@ -19,6 +19,8 @@ jobs:
           node-version: 16
           cache: 'npm'
       - name: Install dependencies
+        working-directory: website
         run: npm ci
       - name: Test build website
+        working-directory: website
         run: npm build
