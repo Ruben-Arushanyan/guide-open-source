@@ -11,6 +11,8 @@
 [9]: /guides/npm-publish/
 [10]: /guides/funding/
 
+[11]: /guides/github
+
 ## Local Setup
 
 ### Step
@@ -80,3 +82,10 @@ go to: [Funding Guide][10]
 ### Step
 
 go to: [Readme Guide][5]
+
+
+## Github Setup
+
+### Step
+
+go to: [github][11]
