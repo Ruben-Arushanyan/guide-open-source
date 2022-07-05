@@ -44,6 +44,10 @@ Revise: `/package.json`
 }
 ```
 
+Examples:
+- A modern React JS utility library delivering comfort, performance, modularity & extras.
+
+
 ### Step
 
 Revise: `/package.json`
