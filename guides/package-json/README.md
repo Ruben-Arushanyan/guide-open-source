@@ -4,7 +4,11 @@
 
 ### Step
 
-Create `/package.json` file
+Npm init:
+
+```bash
+npm init -y
+```
 
 ### Step
 
@@ -126,4 +130,12 @@ Revise: `/package.json`
         "test": "echo \"Error: no test specified\" && exit 1"
     }
 }
+```
+
+### Step
+
+Init `package-lock.json` if no exists
+
+```bash
+npm i
 ```
