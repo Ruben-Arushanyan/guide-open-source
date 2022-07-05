@@ -29,25 +29,10 @@ git init
 
 go to: [Gitignore Guide][3]
 
-### Step
-
-Npm init:
-
-```bash
-npm init -y
-```
 
 ### Step
 
 go to: [PackageJson Guide][6]
-
-### Step
-
-Init `package-lock.json` if no exists
-
-```bash
-npm i
-```
 
 ### Step
 
