@@ -18,12 +18,12 @@ Revise: `/package.json`
 
 Test Workflow for Github Actions
 
-Create  `./github/workflows/test.yml` file
+Create  `/.github/workflows/test.yml` file
 
 ### Step
 
-Copy [example][1] to `./github/workflows/test.yml`
+Copy [example][1] to `/.github/workflows/test.yml`
 
 ### Step
 
-Revise: `./github/workflows/test.yml`
+Revise: `/.github/workflows/test.yml`
