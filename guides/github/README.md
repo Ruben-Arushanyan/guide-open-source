@@ -39,10 +39,3 @@ In repository Settings page disable **Wikis**
 In repository Settings page enable **Discussions**
 
 Click **Set up discussions** button for first discussion
-
-## Step
-
-Add repo name in `
-repositories-reorder
-` config
-
