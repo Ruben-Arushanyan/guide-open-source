@@ -22,9 +22,52 @@ Write important notes in the task:
 - Important links
 - Task description
 
+
+
+
+
+
+
+
+
 ## Implementation Process
+
+### Step
+
+Create git branch:
+
+`{task_number}-task-short-description`
+
+*Example:* (**35-release-guide**)
+
+### Step
+
+Mention the branch in the task description
+
+### Step
+
+Do all commits to that branch
+
+
+
+
+
+
+
 
 
 ## Pull Request Process
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Release Process
