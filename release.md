@@ -24,12 +24,6 @@ Write important notes in the task:
 
 
 
-
-
-
-
-
-
 ## Implementation Process
 
 ### Step
@@ -46,22 +40,13 @@ Mention the branch in the task description
 
 ### Step
 
-Do all commits to that branch
-
-
-
-
-
-
+Do all commits to that branch. (update remote git after commit)
 
 
 
 ## Pull Request Process
 
-
-
-
-
+### Step
 
 
 
