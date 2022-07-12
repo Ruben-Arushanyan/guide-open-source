@@ -48,11 +48,32 @@ Do all commits to that branch. (update remote git after commit)
 
 ### Step
 
+Local test (Optional):
+
+```bash
+npm run test
+```
+
+### Step
+
+Create Pull request in GitHub
+
+- Title
+- Comment
+- Assignees (in right side)
+- Labels (in right side)
+
+Click **Click pull request** button
+
+> You can stop after this step and continue in future.
 
 
+### Step
 
+Merge pull request
 
-
+- Comment
+- Test workflows
 
 
 ## Release Process
