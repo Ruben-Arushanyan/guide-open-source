@@ -123,4 +123,8 @@ Click **Publish release**
 
 ### Step
 
+Close solved `issues` in Github
+
+### Step
+
 - Making sure the `npm-publish` workflow went correctly
