@@ -1,6 +1,7 @@
 # GitHub
 
 [1]: https://github.com/new
+[2]: https://github.com/MyPrivateRepositories/private/blob/master/NPM_TOKEN
 
 ## Step
 
@@ -39,3 +40,10 @@ In repository Settings page disable **Wikis**
 In repository Settings page enable **Discussions**
 
 Click **Set up discussions** button for first discussion
+
+## Step
+
+In repository **Settings > Secrets(actions) > New repository secret**
+
+- Name: **NPM_TOKEN**
+- Value: [go to][2]
