@@ -138,6 +138,17 @@ Revise: `/package.json`
 
 ### Step
 
+Revise: `/package.json`
+
+```json
+{
+    "sideEffects": false
+}
+```
+<https://webpack.js.org/guides/tree-shaking/>
+
+### Step
+
 Init `package-lock.json` if no exists
 
 ```bash
