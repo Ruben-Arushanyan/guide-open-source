@@ -1,7 +1,6 @@
 [1]: /guides/license/
 [2]: /guides/authors/
 [3]: /guides/gitignore/
-[4]: /guides/npmignore/
 [5]: /guides/readme/
 [6]: /guides/package-json/
 [7]: /guides/website/
@@ -30,10 +29,6 @@ go to: [Gitignore Guide][3]
 ### Step
 
 go to: [PackageJson Guide][6]
-
-### Step
-
-go to: [Npmignore Guide][4]
 
 ### Step
 
