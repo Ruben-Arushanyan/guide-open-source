@@ -52,7 +52,7 @@ Add script:
 
 ```json
 "scripts": {
-    "pack": "npm run build --if-present; node scripts/pack.js"
+    "pack": "npm run build --if-present && node scripts/pack.js"
 }
 ```
 
@@ -86,7 +86,7 @@ Add script:
 
 ```json
 "scripts": {
-    "publish": "npm run pack --if-present; node scripts/publish.js"
+    "publish": "npm run pack --if-present && node scripts/publish.js"
 }
 ```
 
