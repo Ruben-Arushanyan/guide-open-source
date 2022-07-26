@@ -7,7 +7,7 @@ const BUILD_DIR = 'dist'
 
 const build = async () => {
     await execPromise(`
-      ./node_modules/.bin/babel ${SOURCE_DIR} --out-dir ${BUILD_DIR}
+      npx babel ${SOURCE_DIR} --out-dir ${BUILD_DIR}
   `)
 }
 
