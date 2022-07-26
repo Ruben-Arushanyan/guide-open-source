@@ -120,7 +120,7 @@ Revise: `/package.json`
 
 ```json
 {
-    "main": "src/index.js"
+    "main": "index.js"
 }
 ```
 
