@@ -1,8 +1,8 @@
 [1]: npmignore.md
 [2]: npm-publish.yml
-[3]: pack.js
+[3]: to-pack.js
 [4]: whitelisting-files.md
-[5]: publish.js
+[5]: to-npm-publish.js
 # NPM Publish
 
 ## Packing
@@ -14,19 +14,19 @@
 `package.json` add:
 
 ```json
-"files": []
+"packableFiles": []
 ```
 
 *(Recommended: Add after `scripts` field)*
 
 ### Step
 
-Add all paths: `"files": []`
+Add all paths: `"packableFiles": []`
 
 Examples:
 
 ```json
-"files": [
+"packableFiles": [
     "package.json",
     "README.md",
     "CHANGELOG",
@@ -38,11 +38,11 @@ Examples:
 
 Pack script
 
-Create  `/scripts/pack.js` file
+Create  `/scripts/to-pack.js` file
 
 ### Step
 
-Copy [pack.js][3] to `/scripts/pack.js`
+Copy [to-pack.js][3] to `/scripts/to-pack.js`
 
 ### Step
 
@@ -52,7 +52,7 @@ Add script:
 
 ```json
 "scripts": {
-    "pack": "npm run build --if-present && node scripts/pack.js"
+    "to-pack": "npm run build --if-present; node scripts/to-pack.js"
 }
 ```
 
@@ -61,7 +61,7 @@ Add script:
 Double-check your work
 
 ```bash
-npm run pack
+npm run to-pack
 ```
 check: `/.packed` folder
 
@@ -72,11 +72,11 @@ check: `/.packed` folder
 
 Npm Publish
 
-Create  `/scripts/publish.js` file
+Create  `/scripts/to-npm-publish.js` file
 
 ### Step
 
-Copy [publish.js][5] to `/scripts/publish.js`
+Copy [to-npm-publish.js][5] to `/scripts/to-npm-publish.js`
 
 ### Step
 
@@ -86,7 +86,7 @@ Add script:
 
 ```json
 "scripts": {
-    "publish": "npm run pack --if-present && node scripts/publish.js"
+    "to-npm-publish": "npm run to-pack --if-present; node scripts/to-npm-publish.js"
 }
 ```
 
