@@ -4,6 +4,7 @@
     "description": "Psakecin Maroin, tvin choban Karoin",
     "license": "MIT",
     "homepage": "https://lox-lava.js.org",
+    "main": "index.js",
     "repository": {
       "type": "git",
       "url": "https://github.com/Ruben-Arushanyan/lox-lava"
@@ -14,9 +15,6 @@
         "lava"
     ],
     "author": "Ruben Arushanyan <ruben.arushanyan24@gmail.com> (https://www.linkedin.com/in/ruben-arushanyan-42bba9235/)",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
+    "scripts": {},
     "sideEffects": false
 }

@@ -1,16 +1,36 @@
 # Test
 
-[1]: test.yml
+### Step
+
+Create  `/scripts/test.js` file
 
 ### Step
 
-Revise: `/package.json`
+Copy [test.js](/test.js) to `/scripts/test.js`
+
+### Step
+
+Revise: `/scripts/test.js`
+
+Examples:
+
+```js
+const test = async () => {
+    await execPromise(`
+        npx jest
+  `)
+}
+```
+
+### Step
+
+`package.json`
+
+Add script:
 
 ```json
-{
-    "scripts": {
-        "test": "echo \"no test specified\" && exit 0"
-    }
+"scripts": {
+    "test": "npm run to-pack --if-present; node scripts/test.js"
 }
 ```
 
@@ -22,7 +42,7 @@ Create  `/.github/workflows/test.yml` file
 
 ### Step
 
-Copy [example][1] to `/.github/workflows/test.yml`
+Copy [example](test.yml) to `/.github/workflows/test.yml`
 
 ### Step
 

@@ -130,18 +130,6 @@ Revise: `/package.json`
 
 ```json
 {
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    }
-}
-```
-
-### Step
-
-Revise: `/package.json`
-
-```json
-{
     "sideEffects": false
 }
 ```
