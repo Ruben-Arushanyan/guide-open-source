@@ -87,7 +87,10 @@ Revise: `/package.json`
 
 ```json
 {
-    "bugs": "https://github.com/Ruben-Arushanyan/lox-lava/issues"
+    "bugs": {
+      "url": "https://github.com/Ruben-Arushanyan/lox-lava/issues",
+      "email" : "ruben.arushanyan24@gmail.com"
+    }
 }
 ```
 

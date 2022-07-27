@@ -9,7 +9,10 @@
       "type": "git",
       "url": "https://github.com/Ruben-Arushanyan/lox-lava"
     },
-    "bugs": "https://github.com/Ruben-Arushanyan/lox-lava/issues",
+    "bugs": {
+      "url": "https://github.com/Ruben-Arushanyan/lox-lava/issues",
+      "email" : "ruben.arushanyan24@gmail.com"
+    },
     "keywords": [
         "lox",
         "lava"
