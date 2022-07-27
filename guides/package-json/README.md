@@ -74,6 +74,16 @@ Revise: `/package.json`
 
 ```json
 {
+    "main": "index.js"
+}
+```
+
+### Step
+
+Revise: `/package.json`
+
+```json
+{
     "repository": {
         "type": "git",
         "url": "https://github.com/Ruben-Arushanyan/lox-lava"
@@ -127,7 +137,10 @@ Revise: `/package.json`
 
 ```json
 {
-    "main": "index.js"
+    "funding": {
+      "type": "individual",
+      "url": "https://github.com/sponsors/Ruben-Arushanyan"
+    },
 }
 ```
 

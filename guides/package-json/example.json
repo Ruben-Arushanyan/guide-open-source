@@ -22,6 +22,10 @@
       "email" : "ruben.arushanyan24@gmail.com",
       "url" : "https://www.linkedin.com/in/ruben-arushanyan-42bba9235/"
     },
+    "funding": {
+      "type": "individual",
+      "url": "https://github.com/sponsors/Ruben-Arushanyan"
+    },
     "scripts": {},
     "sideEffects": false
 }
