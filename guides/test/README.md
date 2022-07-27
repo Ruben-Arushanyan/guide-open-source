@@ -17,7 +17,7 @@ Examples:
 ```js
 const test = async () => {
     await execPromise(`
-        npx jest
+        npx jest test/
   `)
 }
 ```
