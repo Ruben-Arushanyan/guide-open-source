@@ -6,7 +6,7 @@ Create  `/scripts/test.js` file
 
 ### Step
 
-Copy [test.js](/test.js) to `/scripts/test.js`
+Copy [test.js](test.js) to `/scripts/test.js`
 
 ### Step
 
