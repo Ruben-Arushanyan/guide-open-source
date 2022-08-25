@@ -42,3 +42,25 @@ Copy [example][3] to `.github/workflows/website-deploy.yml`
 
 Revise: `.github/workflows/website-deploy.yml`
 
+### Step
+
+Revise: `package.json`
+
+```json
+{
+    "homepage": "https://ruben-arushanyan.github.io/lox-lava",
+}
+```
+
+### Step
+
+Revise: Github repository details Website
+
+### Step
+
+Revise: README.md Documentation link
+
+
+- README header link
+- You can find the React documentation on the website.
+
