@@ -62,5 +62,5 @@ Revise: README.md Documentation link
 
 
 - README header link
-- You can find the React documentation on the website.
+- You can find the full documentation on the website.
 
