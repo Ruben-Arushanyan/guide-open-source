@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MyPrivateRepositories/guide-open-source.git"
+    "url": "git+https://github.com/ruben-arushanyan/guide-open-source.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MyPrivateRepositories/guide-open-source/issues"
+    "url": "https://github.com/ruben-arushanyan/guide-open-source/issues"
   },
-  "homepage": "https://github.com/MyPrivateRepositories/guide-open-source#readme"
+  "homepage": "https://github.com/ruben-arushanyan/guide-open-source#readme"
 }
