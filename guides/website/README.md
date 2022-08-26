@@ -58,6 +58,10 @@ Revise: Github repository details Website
 
 ### Step
 
+In repository Settings page Edit Social preview
+
+### Step
+
 Revise: README.md Documentation link
 
 
