@@ -1,17 +1,17 @@
-# Guide Open Source
+# Guides For Open-Source Projects
 
-[1]: /local-setup.md
-[2]: /github-setup.md
-[3]: /release.md
+**Helper guides for open source projects.**
 
-## Project Local Setup
+## Guides
 
-go to: [local-setup.md][1]
+- [Project Local Setup](/local-setup.md)
+- [Project Github Setup](/github-setup.md)
+- [Release](/release.md)
 
-## Project Github Setup
+## Authors
 
-go to: [github-setup.md][2]
+- [Ruben Arushanyan](https://github.com/ruben-arushanyan)
 
-## Release
+## License
 
-go to: [release.md][3]
+[MIT License](https://github.com/Ruben-Arushanyan/guide-open-source/blob/master/LICENSE)
