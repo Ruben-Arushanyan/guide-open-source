@@ -1,7 +1,4 @@
-[1]: https://lox-lava.js.org
-[2]: https://github.com/ruben-arushanyan
-[3]: https://github.com/Ruben-Arushanyan/lox-lava/blob/master/LICENSE
-# [Lox Lava][1]
+# Lox Lava
 
 > Psakecin Maroin tvin choban Karoin
 
@@ -14,23 +11,23 @@
 
 ........
 
-## [Documentation][1]
+## Documentation
 
 .........
 
 ## Authors
 
-- [Ruben Arushanyan][2]
+- [Ruben Arushanyan](https://github.com/ruben-arushanyan)
 
 ## Maintainers
 
-- [Ruben Arushanyan][2]
+- [Ruben Arushanyan](https://github.com/ruben-arushanyan)
 
 ## Related
 
 - ...
 ## License
 
-[MIT License][3]
+[MIT License](https://github.com/Ruben-Arushanyan/lox-lava/blob/master/LICENSE)
 
 
