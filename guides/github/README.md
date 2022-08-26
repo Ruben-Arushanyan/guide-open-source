@@ -29,10 +29,6 @@ Edit repository details *(repository page **About** right settings icon)*
 
 ## Step
 
-In repository Settings page Edit **Social preview**
-
-## Step
-
 In repository Settings page disable **Wikis**
 
 ## Step
