@@ -2,7 +2,7 @@
 
 **Helper guides for open source projects.**
 
-## Guides
+## Guidelines
 
 - [Project Local Setup](/local-setup.md)
 - [Project Github Setup](/github-setup.md)
