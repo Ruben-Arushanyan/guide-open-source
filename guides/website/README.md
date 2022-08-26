@@ -68,3 +68,7 @@ Revise: README.md Documentation link
 - README header link
 - You can find the full documentation on the website.
 
+### Step
+
+Enabel gh-pages: Github > Settings > Pages
+
