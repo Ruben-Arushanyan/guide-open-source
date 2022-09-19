@@ -39,6 +39,21 @@ Click **Set up discussions** button for first discussion
 
 ## Step
 
+In repository Labels page (`/labels`) add new labels.
+
+| Label name | Description | Color |
+| --- | --- | --- |
+| investigation | | #FBCA04 |
+| proposal | | #E99695 |
+| improvement | | #006B75 |
+| new feature | | #0E8A16 |
+| p1 | Priority 1 | #0052CC |
+| p2 | Priority 2 | #5319E7 |
+| p3 | Priority 3 | #BFD4F2 |
+
+
+## Step
+
 In repository **Settings > Secrets(actions) > New repository secret**
 
 - Name: **NPM_TOKEN**
