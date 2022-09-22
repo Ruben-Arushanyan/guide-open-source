@@ -50,4 +50,8 @@ go to: [Funding Guide](/guides/funding/)
 
 ### Step
 
+go to: [Templates Guide](/guides/templates/)
+
+### Step
+
 go to: [Readme Guide](/guides/readme/)
