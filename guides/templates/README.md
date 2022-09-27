@@ -42,5 +42,27 @@ Copy [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) to `/CODE_OF_CONDUCT.md`
 Revise: `ruben.arushanyan24@gmail.com`
 
 
+## CONTRIBUTING
+
+Create  `/CONTRIBUTING.md` file
+
+### Step
+
+Copy [CONTRIBUTING.md](./CONTRIBUTING.md) to `/CONTRIBUTING.md`
+
+### Step
+
+Revise: Replace `Ruben-Arushanyan/lox-lava` to `username/project-name`
+
+### Step
+
+Revise: Issues links open correctly
+
+Example
+```
+https://github.com/Ruben-Arushanyan/lox-lava/issues/new?assignees=ruben-arushanyan&labels=bug&template=bug.md&title=
+```
+
+
 
 
