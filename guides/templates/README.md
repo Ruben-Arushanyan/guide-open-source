@@ -29,5 +29,18 @@ Revise: `/.github/ISSUE_TEMPLATE/config.yml`
     url: https://github.com/ruben-arushanyan/lox-lava/discussions
 ```
 
+## CODE_OF_CONDUCT
+
+Create  `/CODE_OF_CONDUCT.md` file
+
+### Step
+
+Copy [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) to `/CODE_OF_CONDUCT.md`
+
+### Step
+
+Revise: `ruben.arushanyan24@gmail.com`
+
+
 
 
