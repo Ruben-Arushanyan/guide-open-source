@@ -6,6 +6,7 @@
 
 - [Project Local Setup](/local-setup.md)
 - [Project Github Setup](/github-setup.md)
+- [How to write docs](/docs.md)
 - [Release](/release.md)
 
 ## [Contributing](https://github.com/ruben-arushanyan/guide-open-source/blob/master/CONTRIBUTING.md)
