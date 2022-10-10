@@ -206,6 +206,30 @@ This project has adopted the [Contributor Covenant](https://www.contributor-cove
 This project has adopted the [Contributor Covenant](https://www.contributor-covenant.org) as its Code of Conduct, and we expect project participants to adhere to it. Please read the [full text](https://github.com/ruben-arushanyan/lox-lava/blob/master/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
 ```
 
+<br/>
+<br/>
+<br/>
+<br/>
+
+# 🔘 Related
+
+🔸*preview*
+
+## Related
+
+- [Lox Lava 1](https://lox-lava-1.js.org)
+- [Lox Lava 2](https://lox-lava-2.js.org)
+
+🔹*md*
+
+```md
+## Related
+
+- [Lox Lava 1](https://lox-lava-1.js.org)
+- [Lox Lava 2](https://lox-lava-2.js.org)
+
+```
+
 
 <br/>
 <br/>
@@ -224,6 +248,27 @@ This project has adopted the [Contributor Covenant](https://www.contributor-cove
 
 ```md
 ## Authors
+
+- [Ruben Arushanyan](https://github.com/ruben-arushanyan)
+```
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+# 🔘 Maintainers
+
+🔸*preview*
+
+## Maintainers
+
+- [Ruben Arushanyan](https://github.com/ruben-arushanyan)
+
+🔹*md*
+
+```md
+## Maintainers
 
 - [Ruben Arushanyan](https://github.com/ruben-arushanyan)
 ```
