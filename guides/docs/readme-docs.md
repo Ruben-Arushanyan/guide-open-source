@@ -163,14 +163,26 @@ npm install lox-lava
 ```
 ````
 
-*dd*
-
 <br/>
 <br/>
 <br/>
 <br/>
 
 # 🔘 Contributing
+
+🔸*preview*
+
+## [Contributing](https://github.com/ruben-arushanyan/lox-lava/blob/master/CONTRIBUTING.md)
+
+Read our [contributing guide](https://github.com/ruben-arushanyan/lox-lava/blob/master/CONTRIBUTING.md) to learn about our development process.
+
+🔹*md*
+
+```md
+## [Contributing](https://github.com/ruben-arushanyan/lox-lava/blob/master/CONTRIBUTING.md)
+
+Read our [contributing guide](https://github.com/ruben-arushanyan/lox-lava/blob/master/CONTRIBUTING.md) to learn about our development process.
+```
 
 
 <br/>
@@ -180,6 +192,20 @@ npm install lox-lava
 
 # 🔘 Code of Conduct
 
+🔸*preview*
+
+## [Code of Conduct](https://github.com/ruben-arushanyan/lox-lava/blob/master/CODE_OF_CONDUCT.md)
+
+This project has adopted the [Contributor Covenant](https://www.contributor-covenant.org) as its Code of Conduct, and we expect project participants to adhere to it. Please read the [full text](https://github.com/ruben-arushanyan/lox-lava/blob/master/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
+
+🔹*md*
+
+```md
+## [Code of Conduct](https://github.com/ruben-arushanyan/lox-lava/blob/master/CODE_OF_CONDUCT.md)
+
+This project has adopted the [Contributor Covenant](https://www.contributor-covenant.org) as its Code of Conduct, and we expect project participants to adhere to it. Please read the [full text](https://github.com/ruben-arushanyan/lox-lava/blob/master/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
+```
+
 
 <br/>
 <br/>
@@ -188,6 +214,20 @@ npm install lox-lava
 
 # 🔘 Authors
 
+🔸*preview*
+
+## Authors
+
+- [Ruben Arushanyan](https://github.com/ruben-arushanyan)
+
+🔹*md*
+
+```md
+## Authors
+
+- [Ruben Arushanyan](https://github.com/ruben-arushanyan)
+```
+
 
 <br/>
 <br/>
@@ -195,3 +235,17 @@ npm install lox-lava
 <br/>
 
 # 🔘 License
+
+🔸*preview*
+
+## License
+
+[MIT License](https://github.com/Ruben-Arushanyan/lox-lava/blob/master/LICENSE)
+
+🔹*md*
+
+```md
+## License
+
+[MIT License](https://github.com/Ruben-Arushanyan/lox-lava/blob/master/LICENSE)
+```
