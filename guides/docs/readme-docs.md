@@ -16,6 +16,7 @@
 ```
 
 <br/>
+<br/>
 
 ## 🟢 Linked header
 
@@ -36,6 +37,20 @@
 
 
 
+
+
+
+
+
+
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
 # 🔘 Description Part
 
 ## 🟢 Example 1 (without a separate description section)
@@ -49,6 +64,9 @@
 ```md
 **secure-event-emitter** is a tiny javascript package that uses restrict rules and mechanisms to build safer and protected event-driven architecture. It's similar to nodejs EventEmitter, but dictates stricter rules to prevent misuse.
 ```
+
+<br/>
+<br/>
 
 ## 🟢 Example 2 (with description section)
 
@@ -64,6 +82,19 @@
 
 **secure-event-emitter** is a tiny javascript package that uses restrict rules and mechanisms to build safer and protected event-driven architecture. It's similar to nodejs EventEmitter, but dictates stricter rules to prevent misuse.
 ```
+
+
+
+
+
+
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 # 🔘 The Features Part
 
@@ -82,6 +113,9 @@
 - Not possible to call the `emit()` method anywhere without the **emitterKey**.
 - Ability to **validate** emitted values․
 ```
+
+<br/>
+<br/>
 
 ## 🟢 Example 1 (with separate section)
 
@@ -102,3 +136,9 @@
 - Not possible to call the `emit()` method anywhere without the **emitterKey**.
 - Ability to **validate** emitted values․
 ```
+
+
+<br/>
+<br/>
+<br/>
+<br/>
