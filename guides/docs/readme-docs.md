@@ -145,7 +145,25 @@
 
 # 🔘 Installation
 
+🔸*preview*
 
+## Installation
+
+```
+npm install lox-lava
+```
+
+🔹*md*
+
+````md
+## Installation
+
+```
+npm install lox-lava
+```
+````
+
+*dd*
 
 <br/>
 <br/>
