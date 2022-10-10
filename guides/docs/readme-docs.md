@@ -1,5 +1,5 @@
 
-# 🔘 Header Part
+# 🔘 Header
 
 ## 🟢 Simple header
 
@@ -51,7 +51,7 @@
 <br/>
 <br/>
 
-# 🔘 Description Part
+# 🔘 Description
 
 ## 🟢 Example 1 (without a separate description section)
 
@@ -96,7 +96,7 @@
 <br/>
 <br/>
 
-# 🔘 The Features Part
+# 🔘 The Features
 
 ## 🟢 Example 1 (without a separate section)
 
@@ -142,3 +142,38 @@
 <br/>
 <br/>
 <br/>
+
+# 🔘 Installation
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+# 🔘 Contributing
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+# 🔘 Code of Conduct
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+# 🔘 Authors
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+# 🔘 License
