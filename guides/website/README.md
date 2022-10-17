@@ -17,7 +17,7 @@ Create  `.github/workflows/website-test.yml` file
 
 ### Step
 
-Copy [example](/website-test.yml) to `.github/workflows/website-test.yml`
+Copy [example](./website-test.yml) to `.github/workflows/website-test.yml`
 
 ### Step
 
@@ -32,7 +32,7 @@ Create  `.github/workflows/website-deploy.yml` file
 
 ### Step
 
-Copy [example](/website-deploy.yml) to `.github/workflows/website-deploy.yml`
+Copy [example](./website-deploy.yml) to `.github/workflows/website-deploy.yml`
 
 ### Step
 
